@@ -283,7 +283,8 @@ This framework can be applied in:
 
 ## 👩‍💻 Author
 
-**Rachana A**
+**Rachana A** 
+**Priyanka M P**
 
 Research Project on Explainable AI (XAI), Reliability Analysis, Robustness Evaluation, and Trustworthy Machine Learning.
 
